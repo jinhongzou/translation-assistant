@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Translation Assistant",
+    "version": "1.0",
+    "description": "基于大语言模型的翻译插件",
+    "icons": {
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons/icon48.png"
+    },
+    "permissions": ["storage", "contextMenus"],  
+    "host_permissions": [
+      "https://cloud.siliconflow.cn/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
