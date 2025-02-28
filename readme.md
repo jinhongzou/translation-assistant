@@ -58,9 +58,10 @@
 ## 如何获取免费的大语言模型API
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/1877c939d76b4096978f9d6095894b64.png#pic_center)
 
-推荐使用***硅基流动（https://siliconflow.cn）*** 公司的在线大模型平台，目前公司有三个产品siliconCloud、siliconLLm、OneDiff 。提供市面上大多数的主流模型，最关键是***免费***。免费的模型涵盖文本生成、向量&重排序模型、图片生成、多模态大模型 等各种模型。![在这里插入图片描述](static/siliconflow2.png)
+推荐使用***硅基流动（https://siliconflow.cn）*** 公司的在线大模型平台，目前公司有三个产品siliconCloud、siliconLLm、OneDiff 。提供市面上大多数的主流模型，最关键是***免费***。免费的模型涵盖文本生成、向量&重排序模型、图片生成、多模态大模型 等各种模型。![免费模型](static/siliconflow2.png)
 网站提供提供一站式模型服务，这个比较爽，大家可以通过我提供邀请码连接来感受这个免费的api模型服务。也可以通过官方自己注册一个账号。
 
 ***邀请码***：Sim6qDA1
-***要求链接***：https://cloud.siliconflow.cn/i/Sim6qDA1
-![在这里插入图片描述](static/二维码.png)
+***邀请链接***：https://cloud.siliconflow.cn/i/Sim6qDA1
+
+![二维](static/二维码.png)
