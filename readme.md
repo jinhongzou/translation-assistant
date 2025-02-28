@@ -44,12 +44,12 @@
 -   1.打开Chrome浏览器，输入 chrome://extensions/ 地址。
 -   2.开启右上角的***开发者模式***。
 -  3.点击***加载已解压的扩展***，选择 translation-assistant 文件夹（可以拖拽文件夹到**拓展程序**）。
--  4.插件加载完成后，会出现一个图标![login](login.png)，即可安装完成
+-  4.插件加载完成后，会出现一个图标![login](static/login.png)，即可安装完成
 
 
 ### 使用方法
 
 ***对话模式：*** 点击google右上角的***扩展程序***，选择translation-assistant。在***message***中输入你的问题，点击***Send***按钮进行对话。
 ***翻译模式：*** 选中要翻译的英文短句，右键单击，在弹出提示框中选择***translation-assistant***，点击***Send***按钮进行翻译。
-![演示](demo1.png)
+![演示](static/demo1.png)
 
