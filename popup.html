@@ -1,14 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <!-- <link rel="stylesheet" href="popup.css"> -->
+  <title>Markdown chat-history</title>
+  <!-- 引入 marked 库 -->
+  <script src="libs/marked.min.js"></script>  <!-- 引入样式 -->
   <link rel="stylesheet" href="popup.css">
 </head>
 <body>
+  <!-- 对话框容器 -->
   <div class="chat-container">
-    <div id="chat-history"></div>
+    <div id="chat-history">
+    </div>
     <div class="input-area">
       <input type="text" id="user-input" placeholder="Message..." style="width: 80%; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
       <button id="send-btn" style="width: 18%; padding: 10px; border-radius: 5px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Send</button>
+      <button id="clear-history-btn">clear </button>
     </div>
    
     <!-- <div class="settings">

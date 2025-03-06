@@ -11,6 +11,7 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
     const selectedText = "将下面的句子翻译成中文，确保翻译结果流畅且符合中文表达习惯: \n" + '`' +  info.selectionText + '`' ;  // 获取选中的文本
     if (selectedText) {
       // 打开插件弹窗并传递选中的文本
+
       chrome.action.openPopup();
       chrome.storage.local.set({ selectedText });
     }

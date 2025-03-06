@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)  
 [![LLM Support](https://img.shields.io/badge/LLM-OpenAI%2C%20HuggingFace-orange)](https://huggingface.co/)  
 
-**LLM Translation Assistant** 是一个基于大型语言模型（LLM）的 Google 插件，旨在为用户提供便捷的网页内容翻译服务。它的核心功能是允许用户与大模型进行简单对话（无历史聊天记录），但专注于 **免费** 翻译网页中的英文材料，帮助用户快速理解外文内容，打破语言障碍。开发的初衷是解决传统翻译工具（如 Google 翻译）在专业术语、上下文理解以及长文本翻译中的局限性，同时为用户提供一个轻量级、无需额外付费的翻译解决方案。
+**LLM Translation Assistant** 是一个基于大型语言模型（LLM）的 Google 插件，旨在为用户提供便捷的网页内容翻译服务。允许用户与大模型进行对话，但专注于 **免费** 翻译网页中的英文材料，帮助用户快速理解外文内容，打破语言障碍。开发的初衷是解决传统翻译工具（如 Google 翻译）在专业术语、上下文理解以及长文本翻译中的局限性，同时为用户提供一个轻量级、无需额外付费的翻译解决方案。
 
 ---
 
